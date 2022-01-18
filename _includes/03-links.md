@@ -1,1 +1,1 @@
-![my GitHub account](https://github.com/MaxGomas/)
+[my GitHub account](https://github.com/MaxGomas/)
